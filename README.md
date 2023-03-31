@@ -192,7 +192,9 @@ property. If you have any confusion, then let me know that.
 <tr class="odd">
 <td>dbConnStr</td>
 <td><p>Database connection string. need to change the value as your requirement. The system will use the value to connect the database.</p>
-<p>dbConnStr=jdbc:sqlserver://YourHost\\INSTANCE;databaseName=YourDbName;user=YourUserName;password=your_password;encrypt=true;trustServerCertificate=true</p></td>
+
+`dbConnStr=jdbc:sqlserver://YourHost\\INSTANCE;databaseName=YourDbName;user=YourUserName;password=your_password;encrypt=true;trustServerCertificate=true`
+</td>
 </tr>
 <tr class="even">
 <td colspan="2"><strong>Locations/Paths Tree</strong></td>
@@ -200,9 +202,12 @@ property. If you have any confusion, then let me know that.
 <tr class="odd">
 <td>pathFolderData</td>
 <td><p>Data folder path for input and output file. Default value is blank. If it is blank, then the app will consider that data folder exists in app jar location. Otherwise, you can set any location for the data folder.</p>
-<p>pathFolderData=</p>
+
+`pathFolderData=`
 <p>or</p>
-<p>pathFolderData=D:/Work/OrangeToolz/AppJar/data</p></td>
+
+`pathFolderData=D:/Work/OrangeToolz/AppJar/data`
+</td>
 </tr>
 <tr class="even">
 <td>customerDataFileName</td>
