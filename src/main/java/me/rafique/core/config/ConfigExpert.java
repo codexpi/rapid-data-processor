@@ -37,7 +37,7 @@ public class ConfigExpert {
     }
     private static String getPathTarget(){
         File fileTarget = new File("fileTarget");
-        String pathTarget=fileTarget.getAbsoluteFile().getParentFile().getAbsolutePath()+"\\assets\\AppJar";
+        String pathTarget=fileTarget.getAbsoluteFile().getParentFile().getAbsolutePath()+"\\assets\\AppRdp";
         String pathClass= Main.class.getResource("Main.class").getPath();
         if(pathClass.contains(".jar!")){
             File fileNothing = new File("x");
