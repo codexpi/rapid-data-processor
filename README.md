@@ -295,12 +295,17 @@ property. If you have any confusion, then let me know that.
 <tr class="even">
 <td>exportPathValidData</td>
 <td><p>File name to export valid data.</p>
-<p>exportPathValidData=outDb/exp.valid.txt</p></td>
+
+`exportPathValidData=outDb/exp.valid.txt`
+
+</td>
 </tr>
 <tr class="odd">
 <td>exportPathInvalidData</td>
 <td><p>File name to export invalid data.</p>
-<p>exportPathInvalidData=outDb/exp.invalid.txt</p></td>
+
+`exportPathInvalidData=outDb/exp.invalid.txt`
+</td>
 </tr>
 <tr class="even">
 <td>exportPathBatch</td>
