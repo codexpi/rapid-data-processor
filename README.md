@@ -1,7 +1,8 @@
 # Rapid Data Processor
 This is a test project to
 develop a software application to process large volumes of data with 
-efficiency and maximum possible speed using multithreading concept.
+efficiency and maximum possible speed using multithreading concept. 
+> It is now in initial phase, started with some basic features. More features will be added step by step.
 
 ## Overview
 No business can run without data. The volume of data is increasing day
