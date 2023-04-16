@@ -95,13 +95,13 @@ Before running the application confirm the Runtime Dependency.
 ### Download Executable Jar
 
 -   Go
-    <https://github.com/therafique/rapid-data-processor/blob/master/assets/AppDist/AppRdp.zip>
+    <https://github.com/codexpi/rapid-data-processor/blob/master/assets/AppDist/AppRdp.zip>
     and just click the **Download** button of GitHub page.
 -   You will get AppRdp.zip in the downloads folder on your machine.
 
 **Or**
 -   Download the repository
-    <https://github.com/therafique/rapid-data-processor> from GitHub.
+    <https://github.com/codexpi/rapid-data-processor> from GitHub.
 -   Unzip it and you will get AppRdp.zip in
     rapid-data-processor-master/assets/AppDist on your machine.
 
